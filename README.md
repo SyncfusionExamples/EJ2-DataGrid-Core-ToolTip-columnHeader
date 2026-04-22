@@ -1,4 +1,4 @@
-# ASP.NET CORE DataGrid - ToolTip ColumnHeader
+# Adding Tooltip to Column Headers in ASP.NET Core DataGrid
 
 ## Repository Description
 
