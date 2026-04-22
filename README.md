@@ -41,7 +41,7 @@ The application renders an EJ2 DataGrid inside an EJ2 Tooltip component to displ
 
 When the application loads, the grid retrieves data from the server and renders it. Moving the mouse over configured header columns displays a tooltip showing the corresponding header text.
 
-### Reference
+## Reference
 
 - [Getting started with ASP.NET CORE Grid](https://ej2.syncfusion.com/aspnetcore/documentation/grid/getting-started-core) 
 - [Databinding](https://ej2.syncfusion.com/aspnetcore/documentation/grid/data-binding/data-binding)
